@@ -22,7 +22,7 @@ weibo_username:
 zhihu_username:     SomnuzZ
 github_username:    SomnuZ
 #facebook_username:  baiying.qiu.7
-#jianshu_username:   e71990ada2fd
+jianshu_username:   15ab37f41c22
 #twitter_username:   qiubaiying
 
 
@@ -99,7 +99,7 @@ service-worker: true
 # Friends
 friends: [
     {
-        title: "WY",
+        title: "Khirye",
         href: "http://khirye.com"
     }
 ]
