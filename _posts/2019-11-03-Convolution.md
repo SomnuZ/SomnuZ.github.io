@@ -15,7 +15,7 @@ tags:
 
 ​​离散形式：​
 
-![convolution-vs-cross-correlation](../img/post-convolution.jpg)
+![convolution-vs-cross-correlation](/img/post-convolution.jpg)
 ## 二维卷积
 
 ## 参考资料
