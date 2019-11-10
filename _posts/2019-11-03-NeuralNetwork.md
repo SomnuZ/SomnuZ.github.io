@@ -49,6 +49,7 @@ tags:
 - 梯度消失
   - 靠近输入层
   - 全连接NN，layer太多
+  - sigmoid容易产生梯度消失，ReLu不容易
 - 梯度爆炸
   - 未做参数truncated_normal
 
