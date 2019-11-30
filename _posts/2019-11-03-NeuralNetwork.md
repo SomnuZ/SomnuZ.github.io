@@ -17,7 +17,7 @@ tags:
    3. He
    4. Xnvier
 
-2. 网络设计和评估
+2. 网络设计，评估和优化
    - Activation
      - relu
      - sigmoid
@@ -27,9 +27,14 @@ tags:
    - kernel_regularizer & bias_regularizer
      - None (default)
      - L1 or L2 regularizer
-   - optimizer ? dynamic learning rateλ
+   - gradient descend & learning rateλ
+     - minibatch SGD
+     - 带momentum的SGD
      - λ=λe
-     - Adam
+     - Adagrad - 考虑梯度
+     - adadelta - 考虑梯度 + 变化值
+     - RMSprop
+     - Adam - 考虑梯度和梯度的一阶矩和二阶矩
    - loss
      - mse
      - crossentropy
@@ -52,6 +57,11 @@ tags:
   - sigmoid容易产生梯度消失，ReLu不容易
 - 梯度爆炸
   - 未做参数truncated_normal
+
+## 如何优化
+
+- 局部极小
+- 过拟合
 
 ## 参考资料
 
