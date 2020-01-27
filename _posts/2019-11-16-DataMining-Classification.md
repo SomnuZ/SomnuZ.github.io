@@ -7,9 +7,7 @@ author:     Paul
 header-img: img/post-bg-os-metro.jpg
 catalog: true
 tags:
-    - Algorithm
-    - Supervised Learning
-    - ML
+    - Machine Learning
 ---
 
 ## Loss Function
