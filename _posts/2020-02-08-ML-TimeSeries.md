@@ -2,7 +2,7 @@
 layout:     post
 title:      Time Series Analysis
 subtitle:   时间序列
-date:       2020-01-31
+date:       2020-02-08
 author:     Paul
 header-img: img/post-bg-os-metro.jpg
 catalog: true
