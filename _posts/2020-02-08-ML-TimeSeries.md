@@ -47,7 +47,7 @@ Smoothing
   
   MA on past + MA on noise:
 
-  https://colab.research.google.com/github/lmoroney/dlaicourse/blob/master/TensorFlow%20In%20Practice/Course%204%20-%20S%2BP/S%2BP%20Week%201%20-%20Lesson%203%20-%20Notebook.ipynb
+  [Sample Notebook](https://colab.research.google.com/github/lmoroney/dlaicourse/blob/master/TensorFlow%20In%20Practice/Course%204%20-%20S%2BP/S%2BP%20Week%201%20-%20Lesson%203%20-%20Notebook.ipynb)
 
 - Exponential Smoothing
 
@@ -114,7 +114,7 @@ $$
 
 Use ACF to check non-randomness and determine q:
 
-https://www.youtube.com/watch?v=_tgB-ri9-8c
+[Video](https://www.youtube.com/watch?v=_tgB-ri9-8c)
 
 ## ARMA
 
@@ -139,7 +139,7 @@ ARMA + Trend
 
 ARMA + Trend + Seasonality
 
-https://www.youtube.com/watch?v=WjeGUs6mzXg
+[Video](https://www.youtube.com/watch?v=WjeGUs6mzXg)
 
 ![convolution-vs-cross-correlation](/img/post-ml-sarima.png)
 
