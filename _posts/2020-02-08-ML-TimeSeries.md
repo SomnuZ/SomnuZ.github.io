@@ -141,7 +141,13 @@ ARMA + Trend + Seasonality
 
 [Video](https://www.youtube.com/watch?v=WjeGUs6mzXg)
 
-![convolution-vs-cross-correlation](/img/post-ml-sarima.png)
+$$
+\mathbb{}{ARIMA}(p,d,q)(P,D,Q)_m \to \\
+\mathbb{}{ARIMA}(1,1,1)(1,1,1)_4 \to \\
+(1-\phi L)(1-\Phi L^4)(1-L)(1- L^4)y_t = (1+ \theta L)(1+ \Theta L^4) \epsilon_t
+$$
+
+<!-- ![convolution-vs-cross-correlation](/img/post-ml-sarima.png) -->
 
 ## White Noise - not predictable
 
